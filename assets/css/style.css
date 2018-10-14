@@ -55,3 +55,11 @@ body {
 #spacer{
   height:20px;
 }
+
+#border1{
+  border-bottom: 2px solid #dddddd;
+}
+
+#border2{
+ /*border: 2px solid #dddddd;*/
+}
